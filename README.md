@@ -1,15 +1,15 @@
-# PowerShell MSP Toolkit
+# PowerShell Admin Toolkit
 
 Production-ready PowerShell reference for managed service providers and Windows system administrators. Covers Microsoft 365, Exchange Online, Microsoft Graph, Active Directory, Entra ID, Windows Server, and security hardening.
 
 ## Installation
 
-Copy the `powershell-msp-toolkit` folder to your Claude skills directory or reference directly.
+Copy the `powershell-admin-toolkit` folder to your Claude skills directory or reference directly.
 
 ## Structure
 
 ```
-powershell-msp-toolkit/
+powershell-admin-toolkit/
 ├── SKILL.md                          # Main skill file with core patterns
 ├── README.md                         # This file
 └── references/

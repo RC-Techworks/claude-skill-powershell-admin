@@ -1,9 +1,7 @@
----
-name: powershell-msp-toolkit
+name: powershell-admin-toolkit
 description: Production-ready PowerShell toolkit for MSPs and Windows system administrators. Covers Active Directory, Microsoft Graph API, Exchange Online, Entra ID (Azure AD), Windows Server, Hyper-V, security hardening, and multi-tenant management. Use when automating IT operations, managing Microsoft 365 tenants, administering Windows infrastructure, or building MSP tooling.
----
 
-# PowerShell MSP Toolkit
+# PowerShell Admin Toolkit
 
 ## Core Principles
 
