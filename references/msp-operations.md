@@ -1,4 +1,4 @@
-# MSP Operations
+# Admin Operations
 
 ## Multi-Tenant Management
 
@@ -367,7 +367,7 @@ try {
 } catch {
     $ErrorMessage = $_.Exception.Message
     # Log to Event Log or file
-    Write-EventLog -LogName Application -Source "MSP-Automation" -EventId 1001 -EntryType Error -Message $ErrorMessage
+    Write-EventLog -LogName Application -Source "Admin-Automation" -EventId 1001 -EntryType Error -Message $ErrorMessage
 } finally {
     Disconnect-MgGraph -ErrorAction SilentlyContinue
 }
