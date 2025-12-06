@@ -82,3 +82,5 @@ Reference the appropriate file based on task:
 ## License
 
 MIT
+---
+Maintained by [RainCity Techworks](https://rain-city.tech) | Seattle MSP
